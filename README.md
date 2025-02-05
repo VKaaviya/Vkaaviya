@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Kaviya
 ![](https://komarev.com/ghpvc/?username=VKaaviya&color=brightgreen)
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedInb&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=GitHub&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedInb&logoColor=white)
 <!--
 **VKaaviya/Vkaaviya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
